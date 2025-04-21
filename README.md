@@ -1,4 +1,3 @@
-# deep-learning-assessment
 # Getting Started with Deep Learning  
 
 This repository contains the assessment notebook for the **NVIDIA Getting Started with Deep Learning** course.  
