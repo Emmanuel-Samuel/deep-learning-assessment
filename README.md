@@ -10,7 +10,7 @@ This course introduces the fundamental concepts and techniques in deep learning,
 - Forward and backward propagation  
 - Activation functions  
 - Building and training deep learning models  
-- Introduction to popular frameworks (e.g., TensorFlow, PyTorch)  
+- Introduction to popular frameworks (TensorFlow, PyTorch)  
 
 ## Assessment Notebook  
 
